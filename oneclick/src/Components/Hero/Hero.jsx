@@ -4,7 +4,7 @@ import teaser from "../../assets/Treser.mp4";
 
 const Hero = () => {
   return (
-    <section className="hero">
+    <section className="hero" id="home">
 
       {/* Background Video */}
       <video
